@@ -46,3 +46,5 @@ a:focus { color: #2ba6cb; outline: none; }
 #micrositeFooter { margin: 0; clear: both; }
 #micrositeContent { position: relative; }
 #micrositeContentColumnFull { margin: 0 25px 25px; clear: both; }
+
+.addthis_bar_logo { display: none; }
