@@ -1,5 +1,5 @@
 /*!
-addThisBar v0.0.1 (http://okize.github.com/)
+addThisBar v0.1.0 (http://okize.github.com/)
 Copyright (c) 2013 | Licensed under the MIT license - http://www.opensource.org/licenses/mit-license.php
 */
 
@@ -42,7 +42,7 @@ Copyright (c) 2013 | Licensed under the MIT license - http://www.opensource.org/
 
     init: function() {
 
-      var self = this;
+      // var self = this;
 
       // load the addthis script
       $.when(this.loadAddthisScript(this.addThisScript)).then(function () {
