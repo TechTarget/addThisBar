@@ -3,7 +3,7 @@ SCRIPT_NAME = addThisBar
 default:
 
 	@echo "* compiling jade templates..."
-	@jade -P ./example/index.jade
+	@jade --pretty ./example/index.jade
 
 	@echo "* compiling sass..."
 	@sass --scss --compass --style expanded ./example/sass/style.scss ./example/css/style.css
