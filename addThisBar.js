@@ -1,6 +1,7 @@
 /*!
-addThisBar v0.1.0 (http://okize.github.com/)
-Copyright (c) 2013 | Licensed under the MIT license - http://www.opensource.org/licenses/mit-license.php
+* addThisBar v0.1.0 (https://github.com/TechTarget/addThisBar)
+* Copyright (c) 2013 | Licensed under the MIT license
+* http://www.opensource.org/licenses/mit-license.php
 */
 
 ;(function (factory) {
