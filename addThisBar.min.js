@@ -1,5 +1,6 @@
 /*!
 * addThisBar v0.1.0 (https://github.com/TechTarget/addThisBar)
+* Author: Morgan Wigmanich <okize123@gmail.com> (http://github.com/okize)
 * Copyright (c) 2013 | Licensed under the MIT license
 * http://www.opensource.org/licenses/mit-license.php
 */
